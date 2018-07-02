@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="auth_server/src/main/java"/>
+	<classpathentry kind="src" path="auth_server/src/test/java"/>
+	<classpathentry kind="src" path="client/src/main/java"/>
+	<classpathentry kind="src" path="client/src/test/java"/>
+	<classpathentry kind="lib" path="auth_server/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="client/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="auth_server/target/classes"/>
+</classpath>
